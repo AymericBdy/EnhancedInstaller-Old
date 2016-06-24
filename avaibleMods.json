@@ -1,4 +1,3 @@
 {
-	"VolcanicUtil": "Mods/VolcanicUtil/StandardUpdater/versions.json",
-	"Energy": "Mods/Energy/StandardUpdater/versions.json"
+	"MoreWorldOptions": "MoreWorldOptions/master/MwoUpdateInfo.json"
 }
