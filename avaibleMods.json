@@ -1,3 +1,4 @@
 {
-	"MoreWorldOptions": "MoreWorldOptions/master/MwoUpdateInfo.json"
+	"MoreWorldOptions": "MoreWorldOptions/master/MwoUpdateInfo.json",
+	"TestModPack": "MoreWorldOptions/master/TestModPackInfo.json"
 }
